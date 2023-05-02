@@ -13,7 +13,8 @@
     </div>
     <div class="col-md-9" style="text-align: left">
       <h2>Mahasiswa Universitas Esa Unggul</h2>
+      <p>Citra Raya</p>
     </div>
   </div>
-
+  
 @endsection
